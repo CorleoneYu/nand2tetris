@@ -1,5 +1,7 @@
 # 计算机系统要素-从零开始构建现代计算机
 
+[课程](https://www.coursera.org/learn/build-a-computer/home/welcome)  
+
 主要讲解
 
 1. 计算机硬件原理 （1-5 章）
